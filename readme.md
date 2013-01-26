@@ -1,6 +1,9 @@
 # concat-stream
 
     npm install concat-stream
+    
+    #daxxog's fix1
+    npm install https://github.com/daxxog/node-concat-stream/archive/fix1.tar.gz
 
 then
 
